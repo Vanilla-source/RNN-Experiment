@@ -1,0 +1,2 @@
+﻿model,parameters,best_epoch,best_val_accuracy,test_loss,test_accuracy,test_precision_positive,test_recall_positive,test_f1_positive,misclassified_count
+BiGRU,648450,6,0.8674388674388674,0.3824685824270261,0.861003861003861,0.8828828828828829,0.9193245778611632,0.9007352941176471,108
